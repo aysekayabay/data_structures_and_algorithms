@@ -116,7 +116,6 @@ NODE *deletion(NODE *root, int value)
     {
         return NULL;
     }
-
     if (root->value == value)
     {
         if (root->left == NULL && root->right == NULL) // no children, do itself null
