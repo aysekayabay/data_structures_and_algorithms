@@ -1,1 +1,1 @@
-# data_structures_and_algorithms
+# YTU BLM2512 - Data Structures and Algorithms Lesson
