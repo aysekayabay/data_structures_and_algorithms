@@ -118,7 +118,6 @@ int onTheWheel(NODE *wheel, int number)
     {
         wheel = wheel->next;
     }
-
     if (wheel->value == number)
     {
         return 1;
